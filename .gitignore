@@ -1,0 +1,7 @@
+/node_modules
+#env files
+.env
+.env.
+!.env.example
+#people's user token
+user.json
